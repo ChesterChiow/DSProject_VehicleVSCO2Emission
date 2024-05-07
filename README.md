@@ -1,4 +1,4 @@
-# Vehicle VS CO2 Emissions
+# Vehicle vs CO2 Emissions
 
 ## Introduction
 
