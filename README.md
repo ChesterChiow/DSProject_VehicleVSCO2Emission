@@ -56,9 +56,8 @@ While our project focused on understanding and mitigating CO2 emissions in vehic
 
 ## Contributors
 
-- Chester Chiow (@chesterchiow) - Data Preparation and Cleaning, Exploratory Data Analysis, K-Nearest Neighbour Regression Model
+- Chester Chiow (@chesterchiow) - Data Preparation and Cleaning, Exploratory Data Analysis, K-Nearest Neighbour Regression Model, Random Forest for Regression
 - Eng Yi Xuan (@imaracoonwelp) - One Hot Encoding, Linear Regression Model 
-- Le Xuan Tung (@Lexuantunglego2005) - Random Forest for Regression
 
 ## References
 
