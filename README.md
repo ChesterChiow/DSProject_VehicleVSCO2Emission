@@ -59,6 +59,9 @@ While our project focused on understanding and mitigating CO2 emissions in vehic
 - Chester Chiow (@chesterchiow) - Data Preparation and Cleaning, Exploratory Data Analysis, K-Nearest Neighbour Regression Model, Random Forest for Regression
 - Eng Yi Xuan (@imaracoonwelp) - One Hot Encoding, Linear Regression Model 
 
+## Presentation
+[![SC1015 Mini Project Video](https://img.youtube.com/vi/hvCIz63T6Mk/0.jpg)](https://youtu.be/hvCIz63T6Mk)
+
 ## References
 
 - <https://www.kaggle.com/datasets/debajyotipodder/co2-emission-by-vehicles/data>
